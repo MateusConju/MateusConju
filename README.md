@@ -1,6 +1,6 @@
 - 👋 Olá eu sou Mateus D. Keppke
-- 👀 Eu estou interessado em Frameworks de PHP
-- 🌱 Eu estou aprendendo PHP
+- 👀 Eu estou interessado em Angular
+- 🌱 Eu estou aprendendo Laravel
 - 📫 mateus.keppke@gmail.com
 
 <!---
