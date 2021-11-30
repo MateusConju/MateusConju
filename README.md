@@ -1,6 +1,6 @@
 - 👋 Olá eu sou Mateus D. Keppke
 - 👀 Eu estou interessado em Angular
-- 🌱 Eu estou aprendendo Laravel
+- 🌱 Eu estou aprendendo React
 - 📫 mateus.keppke@gmail.com
 
 <!---
